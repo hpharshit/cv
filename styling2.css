@@ -1,0 +1,28 @@
+body
+{
+    background-color:rgb(197, 250, 144)
+}
+
+
+hr
+{
+    background-color:white;
+  border-style: none ;
+  height: 3px;
+  /* width: 100; */
+  width: 1182px;
+  vertical-align: left;
+}
+
+h2
+{
+    color: blueviolet;
+}
+h1
+{
+    color: rgb(243, 13, 13);
+}
+h3
+{
+    color: rgb(9, 148, 241);
+}
